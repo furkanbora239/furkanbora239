@@ -12,7 +12,7 @@ My name is Furkan Bora. My interests include multi platform app development
 Here are some of the languages and tools that I have used:
 
 - Languages: dart, html, css, js
-- Frameworks: vue.js, material app
+- Frameworks: vue.js, flutter
 - Databases: firebase
 
 ## Contact
