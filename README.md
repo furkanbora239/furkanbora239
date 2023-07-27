@@ -27,5 +27,5 @@ things I've been interested in lately
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/furkan-bora-71a611180/)https://www.linkedin.com/in/furkan-bora-71a611180/
+- [LinkedIn](https://www.linkedin.com/in/furkan-bora-71a611180/)
 - Email: frknbora@gmail.com
