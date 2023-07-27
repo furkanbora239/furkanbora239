@@ -1,26 +1,31 @@
-# Hello! 👋
+# Hello, I'm Furkan Bora
 
-My name is Furkan Bora. My interests include multi platform app development
+🚀 Flutter app developer with a background in video editing. Passionate about Linux and technology. Constantly learning and exploring new technologies to create innovative mobile and desktop apps. Let's connect and create something amazing together!
 
-## My Projects
+## 🧑‍💻 Technologies and Tools
 
-- [Random User](https://github.com/furkanbora239/random_user): a simple random user generator it can be run on linux, ios, macOs, windows, android
-- [Dice Roller](https://github.com/furkanbora239/dice_app2): it's what it is. realy basic dice roller app it can be run on linux, ios, macOs, windows, android
+Here are some of my favorite technologies and tools:
 
-## Technologies
-
-Here are some of the languages and tools that I have used:
-
-- Languages: dart, html, css, js
-- Frameworks: vue.js, flutter
+- Programming Languages: flutter(dart)
+- Web Development: Vue.js
 - Databases: firebase
+- Tools: vsCode, Aria, github
 
-## Contact
+## 🌱 Currently Working
 
-You can contact me at frknbora@gmail.com / [linkedin](https://www.linkedin.com/in/furkan-bora-71a611180/).
+Some of the things I'm currently working on:
 
+- Pera: I am building pera using flutter and firebase. pera is a tool and marketplace for writing and selling e-books. (Privet Repository)
+- [Ai Comment](https://github.com/furkanbora239/ai_comment): I am building ai comment with flutter. ai comment is a good control tool to make it easier to create promts.
 
-<!---
-furkanbora239/furkanbora239 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Interests
+
+things I've been interested in lately
+
+- Rust
+- ai and ai promting
+
+## 📫 Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/furkan-bora-71a611180/)https://www.linkedin.com/in/furkan-bora-71a611180/
+- Email: frknbora@gmail.com
