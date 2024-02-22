@@ -1,6 +1,6 @@
 # Hello, I'm Furkan Bora
 
-🚀 Flutter app developer with a background in video editing. Passionate about Linux and technology. Constantly learning and exploring new technologies to create innovative mobile and desktop apps. Let's connect and create something amazing together!
+🚀 developer with a background in video editing. Passionate about Linux and technology. Constantly learning and exploring new technologies to create innovative mobile, desktop and cli apps. Let's connect and create something amazing together!
 
 ## 🧑‍💻 Technologies and Tools
 
